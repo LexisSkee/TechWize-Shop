@@ -1,39 +1,44 @@
-<<<<<<< HEAD
-# TechWize-Shop
-An E-Commerce shop
-=======
-# Golds Of Old (G.O.O!)
+# TechWize Shopify Store
 
-## Project Overview
-Golds Of Old (G.O.O!) is an arcade gaming website designed to provide gamers with a one-stop platform for discovering, downloading, and playing classic and modern arcade games. This project focuses on creating an engaging and user-friendly experience for arcade enthusiasts.
-
-## Features
-- **Game Library**: A categorized collection of arcade games with descriptions and ratings.
-- **Search & Filter System**: Advanced filtering to find games easily.
-- **Download Manager**: Secure and fast game downloads.
-- **Gaming Blog**: Articles and tips from the gaming community.
-- **User Authentication**: Account creation for personalized experience.
-- **Social Media Integration**: Sharing and community engagement.
-- **Installation Guide**: Step-by-step download and setup instructions.
-
-## About the Project
-Golds Of Old (G.O.O!) is developed as part of a Web Design course to explore the implementation of modern web development techniques in gaming platforms. The project aims to enhance user experience, integrate responsive design, and create a central hub for arcade gaming enthusiasts.
-
-## Website Figma Design
-- **Click Here**: https://www.figma.com/design/Dhb7IsaeBC6Z6XIY4AsnMD/Golds-Of-Old?node-id=0-1&t=mqTs09mn9GAdchgU-1
-
-## Student Information
-- **Student Name**: Hassan Luri Nansia
-- **Index Number**: UEB1102823
-- **Course**: Web Design (CENG 209)
-- **Institution**: University of Energy and Natural Resources
-
-## Contact
-For inquiries, feel free to reach out:
-- **Email**: hassanlurinansia12@gmail.com
-- **GitHub**: https://github.com/LexisSkee
+Welcome to the official GitHub repository for **TechWize**, a modern and responsive Shopify-based e-commerce store. This project showcases a scalable storefront for selling consumer tech products, built with custom Shopify Liquid templates, optimized assets, and integrated tools for store management and performance.
 
 ---
-### 🎮 Experience the nostalgia and fun of arcade gaming with G.O.O!
 
->>>>>>> 1e3f271 (First Commit - All files to repo)
+## 🛍️ About TechWize
+
+**TechWize** is designed to be a high-conversion, mobile-first online store specializing in gadgets, accessories, and consumer electronics. The store leverages Shopify's Liquid engine with custom styling, UX enhancements, and embedded apps to deliver a premium shopping experience.
+
+---
+
+## 🚀 Features
+
+- 🔹 Custom Shopify Liquid theme
+- 🔹 Fully responsive and mobile-optimized UI
+- 🔹 Product filtering and search functionality
+- 🔹 Cart, wishlist, and checkout customization
+- 🔹 SEO-friendly metadata and clean structure
+- 🔹 Lazy loading and performance optimizations
+- 🔹 Integration with Shopify Apps (e.g., Email, Analytics, Reviews)
+
+---
+
+## 🧱 Tech Stack
+
+| Layer         | Stack/Tools                   |
+|---------------|-------------------------------|
+| Frontend      | HTML5, CSS3, JavaScript       |
+| Templating    | Shopify Liquid                |
+| Backend       | Shopify Admin/API             |
+| Design Tools  | Figma, Canva                  |
+| Versioning    | Git, GitHub                   |
+
+---
+
+## 📁 Repository Structure
+/assets → Images, fonts, stylesheets
+/config → Shopify theme configuration
+/layout → Theme layout files
+/locales → Language and translation files
+/sections → Custom homepage and UI sections
+/snippets → Reusable Liquid components
+/templates → Page, product, and cart templates
